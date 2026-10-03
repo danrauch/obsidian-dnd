@@ -5,4 +5,4 @@ tags:
 ---
 # Torrin
 ---
-Wache. Verschwunden zusammen mit [[Rizzali]] und [[Varruk]].
+Sehr erfahrene Wache aus [[Karash]]. Verheiratet. Verschwunden zusammen mit [[Rizzali]] und [[Varruk]].

@@ -5,4 +5,4 @@ tags:
 ---
 # Varruk
 ---
-Schmied. Zusammen mit [[Rizzali]] und [[Torrin]] verschwunden.
+Schmied aus [[Karash]]. Zusammen mit [[Rizzali]] und [[Torrin]] verschwunden.

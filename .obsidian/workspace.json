@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kampagnen/Hero Academy/Orte/Remuria.md",
+                "file": "Kampagnen/Hero Academy/Tagebuch/2026-09-27 Session 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remuria"
+              "title": "2026-09-27 Session 3"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Dateiexplorer"
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 407.8999938964844
   },
   "right": {
     "id": "32e8a97177009187",
@@ -196,11 +198,17 @@
   },
   "active": "4b81d65e71a59ee1",
   "lastOpenFiles": [
-    "Resourcen/Bilder/r_map_remuria_2.jpg",
+    "Oase des Thul.md",
+    "Kampagnen/Hero Academy/Tagebuch/2026-09-27 Session 3.md",
+    "Kampagnen/Hero Academy/Personen & Gruppen/NPCs/Torrin.md",
+    "Kampagnen/Hero Academy/Personen & Gruppen/NPCs/Varruk.md",
+    "Kampagnen/Hero Academy/Personen & Gruppen/NPCs/Rizzali.md",
     "Kampagnen/Hero Academy/Quests/Initialer Auftrag - Finde Rizzali & Co.md",
-    "Kampagnen/Hero Academy/Tagebuch/2026-05-17 Session 1.md",
+    "Kampagnen/Hero Academy/Tagebuch/2026-09-27 Session 3 (DANS-LAPTOP).md",
     "Kampagnen/Hero Academy/Tagebuch/2026-07-19 Session 2.md",
     "Kampagnen/Hero Academy/Orte/Remuria.md",
+    "Resourcen/Bilder/r_map_remuria_2.jpg",
+    "Kampagnen/Hero Academy/Tagebuch/2026-05-17 Session 1.md",
     "Resourcen/Bilder/r_map_remuria.png",
     "Kampagnen/Hero Academy/Orte/Heldenakademie-Druidenhain.md",
     "Kampagnen/Hero Academy/Personen & Gruppen/NPCs/Martina Hain.md",
@@ -219,12 +227,7 @@
     "Kampagnen/Hero Academy/Items/Spezial Kaktussaft.md",
     "Kampagnen/Hero Academy/Personen & Gruppen/Charakter/Kümmel.md",
     "Resourcen/D&D 5E/Compendium/items/potion-of-healing.md",
-    "Kampagnen/Hero Academy/Orte/Karash.md",
     "Kampagnen/Hero Academy/Tagebuch",
-    "Kampagnen/Hero Academy/Personen & Gruppen/NPCs/Rizzali.md",
-    "Resourcen/D&D 5E/Compendium/spells/mage-hand.md",
-    "Resourcen/D&D 5E/Compendium/bestiary/humanoid/mage.md",
-    "Kampagnen/Hero Academy/Personen & Gruppen/Charakter/Vela.md",
     "Kampagnen/Hero Academy/Lore",
     "Kampagnen/Hero Academy/Personen & Gruppen/Unbenannt",
     "Kampagnen/Hero Academy/Personen & Gruppen/Gruppen",
@@ -240,7 +243,6 @@
     "Resourcen/D&D 5E/Compendium/bestiary/undead/token/warhorse-skeleton.png",
     "Resourcen/D&D 5E/Compendium/bestiary/undead/token/vampire.png",
     "Resourcen/D&D 5E/Compendium/bestiary/undead/token/vampire-spawn.png",
-    "Resourcen/D&D 5E/Compendium/bestiary/undead/token/specter.png",
-    "Resourcen/D&D 5E/Compendium/bestiary/undead/token/shadow.png"
+    "Resourcen/D&D 5E/Compendium/bestiary/undead/token/specter.png"
   ]
 }

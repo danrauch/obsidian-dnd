@@ -1,7 +1,8 @@
 ---
 tags:
   - person/npc
+  - race/half-aasimar
 ---
 # Rizzali
 ---
-Tochter des Bürgermeisters von [[Karash]]. Verschwunden.
+Halb-Aasimar Tochter des Bürgermeisters von [[Karash]]. Verschwunden.

@@ -9,7 +9,7 @@ starts-at: "[[Karash]]"
 Erster Auftrag des [[Heldenteam C34]].
 ## Infos
 
-Die Tochter des Bürgermeisters(?) von [[Karash]] namens [[Rizzali]] ist zusammen mit einer Wache und einem Schmied verschwunden.
+Die Tochter des Bürgermeisters(?) von [[Karash]] namens [[Rizzali]] ist zusammen mit einer Wache ([[Torrin]]) und einem Schmied [[Varruk]] verschwunden.
 
 Berichte von [[jackal|Jackals]] oder sogar [[Jackal-Were|Jackal-Weres]] (Werejackals).
 
